@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #A3D8F4 !important; }
+
+.text-center {
+  font-family: "Open Sans", sans-serif; }
+
+.card {
+  font-family: "Open Sans", sans-serif; }
+
+footer {
+  background-color: #A3D8F4;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 15PX;
+  font-family: "Open Sans", sans-serif; }
+  footer ul li {
+    list-style-type: none; }
+    footer ul li a {
+      text-decoration: none;
+      font-size: 14px;
+      color: black; }
+      footer ul li a:hover {
+        color: white; }

@@ -1,0 +1,20 @@
+footer{
+	background-color:$color-primario;
+	display: flex;
+	justify-content: space-evenly;
+	padding: 15PX;
+	font-family:$font;
+    ul{
+		li{
+			list-style-type: none;
+	        a { 
+			text-decoration: none;
+			font-size: 14px;
+			color: black;
+			&:hover {
+			color: white;
+				}
+			}
+		}
+	}
+}
