@@ -1,1 +1,2 @@
-Se generan partials de _maps _mixin y _extend
+Se generan partials de _maps _mixin y _extend 
+Se agrega etiqueta <meta> para Seo
