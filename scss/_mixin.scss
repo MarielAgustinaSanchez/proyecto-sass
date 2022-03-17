@@ -1,0 +1,13 @@
+@mixin titulosprincipales{
+	padding-bottom: 20px;
+	text-align: center;
+	font-family:"Open Sans";
+}
+
+h1{
+	@include titulosprincipales;
+}
+
+.logo{
+	@include titulosprincipales;
+}

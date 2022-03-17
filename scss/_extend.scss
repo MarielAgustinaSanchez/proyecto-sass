@@ -1,0 +1,24 @@
+.contenido{
+	border-radius: 5px;
+	margin-right: 50px;
+	margin-left: 50px;
+	background-color: #b9fffc;
+	 p{
+		padding-left: 15px;
+		padding-right: 15px;
+		font-size: 20px;
+
+	}
+}
+
+
+.contenido1{
+	@extend .contenido;
+	background-color: #a3d8f4;
+}
+
+.contenido2{
+	@extend .contenido;
+	background-color: #199ef3;
+}
+

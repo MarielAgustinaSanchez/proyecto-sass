@@ -1,0 +1,14 @@
+$datos-utiles:(
+   color:#0077b8,
+   fuente: 35px,
+   estilo: sans-serif,
+   ubicacion: center,
+);
+
+.preg {
+	color: map-get($datos-utiles,color);
+	font-size: map-get($datos-utiles,fuente);
+	font-family: map-get($datos-utiles,estilo);
+	text-align: map-get($datos-utiles,ubicacion);
+}
+

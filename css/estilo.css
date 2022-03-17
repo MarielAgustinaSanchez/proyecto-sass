@@ -1,9 +1,6 @@
 .navbar {
   background-color: #A3D8F4 !important; }
 
-.text-center {
-  font-family: "Open Sans", sans-serif; }
-
 .card {
   font-family: "Open Sans", sans-serif; }
 
@@ -21,3 +18,35 @@ footer {
       color: black; }
       footer ul li a:hover {
         color: white; }
+
+.preg {
+  color: #0077b8;
+  font-size: 35px;
+  font-family: sans-serif;
+  text-align: center; }
+
+.contenido, .contenido1, .contenido2 {
+  border-radius: 5px;
+  margin-right: 50px;
+  margin-left: 50px;
+  background-color: #b9fffc; }
+  .contenido p, .contenido1 p, .contenido2 p {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px; }
+
+.contenido1 {
+  background-color: #a3d8f4; }
+
+.contenido2 {
+  background-color: #199ef3; }
+
+h1 {
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: "Open Sans"; }
+
+.logo {
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: "Open Sans"; }

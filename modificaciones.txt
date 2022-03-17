@@ -1,0 +1,1 @@
+Se generan partials de _maps _mixin y _extend
